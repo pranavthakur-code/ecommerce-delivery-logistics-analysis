@@ -74,7 +74,7 @@ Payment Orders = DISTINCTCOUNT(olist_order_payments_dataset[order_id])
 ## How to Use
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows only).
-2. Download `Olist_Dashboard.pbix` from this repository.
+2. Download `Olist_Dashboard.pbix`[https://drive.google.com/file/d/1ujdTln-viZvJSi_qT0XpPEver-sQiHf2/view?usp=sharing] from this google drive.
 3. Open it in Power BI Desktop. If it asks for the data, point it to the Olist CSV files.
 4. Use the **order_status** slicer to explore the data.
 
