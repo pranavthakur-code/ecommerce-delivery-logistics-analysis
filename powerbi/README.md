@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analysing the Brazilian Olist e-commerce dataset. It covers revenue, orders, product categories, payment behaviour and order status.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Screenshot%202026-11-06%20172756.png)
 
 ## Project Overview
 
