@@ -91,6 +91,4 @@ Payment Orders = DISTINCTCOUNT(olist_order_payments_dataset[order_id])
 
 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) on Kaggle. Please download the CSV files from there.
 
-## Team
 
-*Add names and roles of group members here.*
