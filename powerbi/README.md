@@ -10,9 +10,6 @@ An interactive Power BI dashboard analysing the Brazilian Olist e-commerce datas
 |---|---|
 | Tool | Microsoft Power BI Desktop |
 | Dataset | Olist Brazilian E-Commerce (orders, items, payments, products, sellers, geolocation) |
-| Type | Group project |
-| Team | *Add team member names here* |
-| Institution | SRM Institute of Science and Technology, Delhi NCR Campus |
 
 ## Objectives
 
