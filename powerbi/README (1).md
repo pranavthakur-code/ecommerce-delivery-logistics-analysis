@@ -110,7 +110,7 @@ DIVIDE(
 ## How to Use
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows only).
-2. Download [olist_Dashboard.pbix](PASTE-YOUR-GOOGLE-DRIVE-LINK-HERE) from Google Drive. The file is too large to store on GitHub.
+2. Download [olist_Dashboard.pbix](https://drive.google.com/file/d/1RxJVylaNvjfBnKGLFZPRPKdPq-Qjc8as/view?usp=drive_link) from Google Drive. The file is too large to store on GitHub.
 3. Open it in Power BI Desktop. If it asks for the data, point it to the Olist CSV files.
 4. Use the **order_status** slicer on each page to explore the data.
 
